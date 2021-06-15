@@ -9,5 +9,3 @@
 3. willing to learn new things
 
 # Qoutes by a succeful people who are a grown people who they made alot of changes to this world :
-
-
