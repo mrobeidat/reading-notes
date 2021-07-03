@@ -18,7 +18,7 @@
 
 |the read  | link   |          
 ------------ | -------------
-|read1 | [go to read1 ](https://mrobeidat.github.io/reading-notes/201/read01)|
+|read1 | [Introduction to Javascript & HTML ](https://mrobeidat.github.io/reading-notes/201/read01)|
 |read2 | [Go to read2](https://mrobeidat.github.io/reading-notes/201/read02)|
 |read3 | [Go to read3](https://mrobeidat.github.io/reading-notes/201/read03)|
 |read4 | [Go to read4](https://mrobeidat.github.io/reading-notes/201/read04)|
