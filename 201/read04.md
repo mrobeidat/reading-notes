@@ -90,11 +90,13 @@ and we also call it by its name that we previously typed after the function keyw
 
 1. Onboard a junior developer:The most common usage is a junior programmer pairing with a senior one.
 
-2. Build up self-confidence:Pair programming is a good practice to grow as a cohesive dev team. You want juniors to be more effective and expect someday they’ll be able to handle stories by their own, without systematically requiring you to fix everything afterwards. For this to happen, they first need to feel they are key elements of the project and team.
+2. Build up self-confidence: Pair programming is a good practice to grow as a cohesive dev team. You want juniors to be more effective and expect someday they’ll be able to handle stories by their own, without systematically requiring you to fix everything afterwards. For this to happen, they first need to feel they are key elements of the project and team.
 
 3. Improve code quality: Pair programming allows to share consistent coding practices between team members. When you expose some new way to arrange the project’s code during a meeting, people might not be as receptive as you thought they were
 
 
 ! [](https://agilemercurial.files.wordpress.com/2019/06/pairprogramming1.png)
 # and there are many reasons and benfits for pair programming , you can check them here : ![reasons for pair programming ](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+
 
