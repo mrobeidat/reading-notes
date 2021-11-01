@@ -21,7 +21,6 @@
 
 *special character that indicates the end of the file* 
 
-![modern file](https://files.realpython.com/media/FileFormat.02335d06829d.png) 
 
 > File Paths : 
 
