@@ -1,7 +1,6 @@
 
 
   
-# [reading-note-401](https://mohammadsilwadi.github.io/reading-note-401/)
 
 ### Classes and Objects
 
